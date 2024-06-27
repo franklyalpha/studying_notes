@@ -7,5 +7,5 @@ These notes are all public and free to use.
 
 <br>
 
-If you have any comments or suggestions on the notes, simply send those via email to: "jingyu.hu@mail.utoronto.ca". Thanks in advance!
+If you have any comments or suggestions on the notes, simply create an issue or open a pull request. Thank you very much in advance!
 
